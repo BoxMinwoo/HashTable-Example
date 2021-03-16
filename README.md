@@ -1,4 +1,4 @@
-## HashTable-Example
+### HashTable-Example
 - HashTable을 최대한 쉽게 이해하기 위한 샘플 프로그램입니다
 - Python3로 작성되었습니다.
 ***
@@ -9,7 +9,7 @@
 - 특정 데이터를 갈아버리고 Key를 만드는 과정이 있기 때문에 Hash라는 단어를 선택한 것으로 추정 됩니다
 - 갈려버린 값(0x7a854n…)은 Hash Key 값으로 사용되며, 거의 유일한 값을 가지게 됩니다.
 ***
-## HashTable이 필요한 이유
+### HashTable이 필요한 이유
 HashTable이 아닌 일반적인 테이블을 만들어 본다면
 ![image](https://user-images.githubusercontent.com/72640840/111261791-61c4b680-8666-11eb-91bb-49284f9f5aa7.png)
 - Key 하나에 Data 하나가 매칭돼 있는 테이블입니다.
